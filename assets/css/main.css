@@ -345,4 +345,12 @@ template {
 [hidden] {
   display: none;
 }
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th {
+  font-size: 20px;
+}
 /*# sourceMappingURL=main.css.map */
